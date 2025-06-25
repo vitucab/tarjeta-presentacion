@@ -60,8 +60,8 @@ body{
 }
 
 .foto{
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     border-radius: 50px;
     border: 2px solid rgb(236, 153, 175);
     transition: all 0.3s ease;
