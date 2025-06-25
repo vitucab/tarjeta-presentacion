@@ -28,6 +28,11 @@ body{
     width: 450px;
     text-align: center;
     margin: 200px 0px 10px 100px;
+    transition: all 0.3s ease;
+}
+
+.tarj h1:hover{
+    transform: scale(1.1);
 }
 
 .inf{
@@ -59,9 +64,9 @@ body{
     height: 150px;
     border-radius: 50px;
     border: 2px solid rgb(236, 153, 175);
+    transition: all 0.3s ease;
 }
 
 .foto:hover{
     transform: scale(1.1);
-    transition: all 0.3s ease;
 }
